@@ -56,23 +56,23 @@
                     <div class="rounded-circle bg-success-alt">
                       <img src="assets/img/icons/interface/icon-check.svg" alt=" icon=" class="m-2 icon icon-xs bg-success" data-inject-svg>
                     </div>
-                    <h6 class="mb-0 ml-3">انتحال الرسائل النصية القصيرة إس إم إس*</h6>
+                    <h6 class="mb-0 ml-3">تنبيهات لوحة التحكم</h6>
                   </div>
                 </li>
-                <li class="my-3 opacity-50">
+                  <li class="my-3">
                   <div class="d-flex align-items-center">
-                    <div class="rounded-circle bg-danger-alt">
-                      <img src="assets/img/icons/interface/icon-x.svg" alt=" icon=" class="m-2 icon icon-xs bg-danger" data-inject-svg>
+                    <div class="rounded-circle bg-success-alt">
+                      <img src="assets/img/icons/interface/icon-check.svg" alt=" icon=" class="m-2 icon icon-xs bg-success" data-inject-svg>
                     </div>
-                    <h6 class="mb-0 ml-3"></h6>
+                    <h6 class="mb-0 ml-3">التصوير عن بعد بتقنية الريمكام</h6>
                   </div>
                 </li>
-                <li class="my-3 opacity-50">
+                   <li class="my-3">
                   <div class="d-flex align-items-center">
-                    <div class="rounded-circle bg-danger-alt">
-                      <img src="assets/img/icons/interface/icon-x.svg" alt=" icon=" class="m-2 icon icon-xs bg-danger" data-inject-svg>
+                    <div class="rounded-circle bg-success-alt">
+                      <img src="assets/img/icons/interface/icon-check.svg" alt=" icon=" class="m-2 icon icon-xs bg-success" data-inject-svg>
                     </div>
-                    <h6 class="mb-0 ml-3"></h6>
+                    <h6 class="mb-0 ml-3">التصوير عن بعد بتقنية الريمكام</h6>
                   </div>
                 </li>
               </ul>
@@ -123,12 +123,12 @@
                     <h6 class="mb-0 ml-3">التصوير عن بعد بتقنية الريمكام</h6>
                   </div>
                 </li>
-                <li class="my-3 opacity-50">
+                   <li class="my-3">
                   <div class="d-flex align-items-center">
-                    <div class="rounded-circle bg-danger-alt">
-                      <img src="assets/img/icons/interface/icon-x.svg" alt=" icon=" class="m-2 icon icon-xs bg-danger" data-inject-svg>
+                    <div class="rounded-circle bg-success-alt">
+                      <img src="assets/img/icons/interface/icon-check.svg" alt=" icon=" class="m-2 icon icon-xs bg-success" data-inject-svg>
                     </div>
-                    <h6 class="mb-0 ml-3"></h6>
+                    <h6 class="mb-0 ml-3">التصوير عن بعد بتقنية الريمكام</h6>
                   </div>
                 </li>
               </ul>

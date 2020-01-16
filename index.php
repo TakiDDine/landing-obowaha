@@ -4,7 +4,7 @@
 <section class="bg-light o-hidden pt-5 pb-0">
       <div class="container">
         <div class="row align-items-center justify-content-between">
-          <div class="col-lg-6 d-flex flex-column text-center text-lg-left mb-5 mb-lg-0" data-aos="fade-right">
+          <div class="col-lg-6 d-flex flex-column text-center text-lg-right mb-5 mb-lg-0">
             <div class="pr-xl-5">
               <h1 class="display-3">التطبيق الذي سيجعل أبنائك  في  مأمن</h1>
               <p class="lead">تابع خطوات أبنائك ، أينما كنت
@@ -54,8 +54,8 @@
             </div>
           </div>
           <div class="col">
-            <div class="row justify-content-center" data-jarallax-element="-50">
-              <div class="col-10 col-sm-8 col-md-7 col-lg-9 col-xl-7" data-aos="zoom-in" data-aos-delay="250">
+            <div class="row justify-content-center" >
+              <div class="col-10 col-sm-8 col-md-7 col-lg-9 col-xl-7" >
                 <img class="img-fluid" src="assets/img/mobile-app/mobile-app-1.png" alt="Screenshot">
               </div>
             </div>
@@ -75,7 +75,7 @@
           </div>
         </div>
         <div class="row text-center">
-          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-6 col-lg-4 mb-4 mb-md-5">
             <div class="mx-xl-4">
               <img src="assets/img/logos/product/kyan.svg" alt="Kyan logo" class="mb-4">
               <h5>استمع لكل ما يدور حولك</h5>
@@ -84,7 +84,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" >
             <div class="mx-xl-4">
               <img src="assets/img/logos/product/atica.svg" alt="Atica logo" class="mb-4">
               <h5>مراقبة سجل المكالمات</h5>
@@ -93,7 +93,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" >
             <div class="mx-xl-4">
               <img src="assets/img/logos/product/treva.svg" alt="Treva logo" class="mb-4">
               <h5>كن على اطلاع بمكان إبنائك</h5>
@@ -102,7 +102,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" >
             <div class="mx-xl-4">
               <img src="assets/img/logos/product/kanba.svg" alt="Kanba logo" class="mb-4">
               <h5>راقب تطبيقات الشات</h5>
@@ -111,7 +111,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" >
             <div class="mx-xl-4">
               <img src="assets/img/logos/product/tvit.svg" alt="Tvit logo" class="mb-4">
               <h5>راقب  الاتصالات</h5>
@@ -120,7 +120,9 @@
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" data-aos="fade-up" data-aos-delay="600">
+          <div class="col-md-6 col-lg-4 mb-4 mb-md-5" 
+
+          >
             <div class="mx-xl-4">
               <img src="assets/img/logos/product/aven.svg" alt="Aven logo" class="mb-4">
               <h5>راقب نشاط الإنترنت</h5>
@@ -148,7 +150,7 @@
 
 <section class="bg-light o-hidden pt-40">
       <div class="container">
-        <div class="row align-items-center justify-content-around text-center text-lg-left">
+        <div class="row align-items-center justify-content-around text-center text-lg-right">
           <div class="col-md-9 col-lg-6 col-xl-5 mb-4 mb-md-5 mb-lg-0 pr-lg-5 pr-xl-0">
             <div>
               <h2 class="h1">كيف يمكنني الاستفادة من التطبيق</h2>
@@ -255,173 +257,5 @@
       </div>
       <div class="divider divider-bottom bg-white"></div>
     </section>
-
-<section class="bg-primary-3 pt-0 pb-0  text-white">
-      <div class="divider divider-top transform-flip-x bg-white"></div>
-      <div class="container">
-        <div class="row section-title justify-content-center text-center">
-          <div class="col-md-9 col-lg-8 col-xl-7">
-            <h3 class="display-4">Features Galore</h3>
-            <div class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</div>
-          </div>
-        </div>
-        <div class="row justify-content-center">
-          <div class="col-xl-9 col-lg-10">
-            <div class="row justify-content-center">
-              <div class="col-md-6 mb-3 mb-md-4" data-aos="fade-up" data-aos-delay="10">
-                <div class="card card-body bg-white min-vh-md-30 hover-box-shadow">
-                  <div class="flex-fill">
-                    <h4 class="h3">Fully Responsive</h4>
-                    <p>Volantis vitae unuch sed velit sodales. Sandor imperdiet proin fermentum leo vel Hodor.</p>
-                  </div>
-                  
-                </div>
-              </div>
-              <div class="col-md-6 mb-3 mb-md-4" data-aos="fade-up" data-aos-delay="20">
-                <div class="card card-body bg-white min-vh-md-30 hover-box-shadow">
-                  <div class="flex-fill">
-                    <h4 class="h3">Multiple Layouts</h4>
-                    <p>Samwell nisl purus in mollis. Varys eget velit aliquet sagittis consectetur purus ut.</p>
-                  </div>
-           
-                </div>
-              </div>
-              <div class="col-md-6 mb-3 mb-md-4" data-aos="fade-up" data-aos-delay="30">
-                <div class="card card-body bg-white min-vh-md-30 hover-box-shadow">
-                  <div class="flex-fill">
-                    <h4 class="h3">Modular Components</h4>
-                    <p>Vel fringilla est ullamcorper eget. Eunuch pulvinar sapien et Loras ullamcorper Melisandre.</p>
-                  </div>
-              
-                </div>
-              </div>
-              <div class="col-md-6 mb-3 mb-md-4" data-aos="fade-up" data-aos-delay="40">
-                <div class="card card-body bg-white min-vh-md-30 hover-box-shadow">
-                  <div class="flex-fill">
-                    <h4 class="h3">Suits Your Style</h4>
-                    <p>Consectetur libero imp faucibus nisl tincidunt. Sansa tellus mauris a diam maecenas sed.</p>
-                  </div>
-              
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row text-center">
-           <button class="btn btn-lg btn-primary cta-btn" >
-               تواصل معنا
-         </button>
-        </div>
-      </div>
-    </section>
-<footer class="bg-primary-3 text-white links-white pb-4 footer-1">
-      <div class="container">
-      
-    
-        <div class="text-center text-lg-center">
-           <div class="text-muted">يقع على عاتق مستخدمي فليكسباي مسئولية التأكد من، والامتثال لكافة القوانين السارية في بلدانهم فيما يتعلق باستخدام فليكسباي "لأغراض خفية.
-              </div>
-          </div>
-    
-        </div>
-      </div>
-    </footer>
-    <a href="#top" class="btn btn-primary rounded-circle btn-back-to-top" data-smooth-scroll data-aos="fade-up" data-aos-offset="2000" data-aos-mirror="true" data-aos-once="false">
-      <img src="assets/img/icons/interface/icon-arrow-up.svg" alt="Icon" class="icon bg-white" data-inject-svg>
-    </a>
-
-
-
-
-
-
-
-
-
-
-
-
-    <!-- Required vendor scripts (Do not remove) -->
-    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
-    <script type="text/javascript" src="assets/js/popper.min.js"></script>
-    <script type="text/javascript" src="assets/js/bootstrap.js"></script>
-
-    <!-- 
-             This appears in the demo only.  This script ensures our demo countdowns are always showing a date in the future 
-             by altering the date before the countdown is initialized 
-        -->
-    <script type="text/javascript">
-      (($) => {
-            var now             = new Date;
-            var day             = 864e5;
-            var weeksToAdd      = 2;
-            var tenWeeksFromNow = new Date(+now + day * 7 * weeksToAdd).toISOString().slice(0,10).replace(/\-/g, 'index.html');
-            $('[data-countdown-date].add-countdown-time').attr('data-countdown-date', tenWeeksFromNow);
-          })(jQuery);
-    </script>
-
-    <!-- Optional Vendor Scripts (Remove the plugin script here and comment initializer script out of index.js if site does not use that feature) -->
-
-    <!-- AOS (Animate On Scroll - animates elements into view while scrolling down) -->
-    <script type="text/javascript" src="assets/js/aos.js"></script>
-    <!-- Clipboard (copies content from browser into OS clipboard) -->
-    <script type="text/javascript" src="assets/js/clipboard.min.js"></script>
-    <!-- Fancybox (handles image and video lightbox and galleries) -->
-    <script type="text/javascript" src="assets/js/jquery.fancybox.min.js"></script>
-    <!-- Flatpickr (calendar/date/time picker UI) -->
-    <script type="text/javascript" src="assets/js/flatpickr.min.js"></script>
-    <!-- Flickity (handles touch enabled carousels and sliders) -->
-    <script type="text/javascript" src="assets/js/flickity.pkgd.min.js"></script>
-    <!-- Ion rangeSlider (flexible and pretty range slider elements) -->
-    <script type="text/javascript" src="assets/js/ion.rangeSlider.min.js"></script>
-    <!-- Isotope (masonry layouts and filtering) -->
-    <script type="text/javascript" src="assets/js/isotope.pkgd.min.js"></script>
-    <!-- jarallax (parallax effect and video backgrounds) -->
-    <script type="text/javascript" src="assets/js/jarallax.min.js"></script>
-    <script type="text/javascript" src="assets/js/jarallax-video.min.js"></script>
-    <script type="text/javascript" src="assets/js/jarallax-element.min.js"></script>
-    <!-- jQuery Countdown (displays countdown text to a specified date) -->
-    <script type="text/javascript" src="assets/js/jquery.countdown.min.js"></script>
-    <!-- jQuery smartWizard facilitates steppable wizard content -->
-    <script type="text/javascript" src="assets/js/jquery.smartWizard.min.js"></script>
-    <!-- Plyr (unified player for Video, Audio, Vimeo and Youtube) -->
-    <script type="text/javascript" src="assets/js/plyr.polyfilled.min.js"></script>
-    <!-- Prism (displays formatted code boxes) -->
-    <script type="text/javascript" src="assets/js/prism.js"></script>
-    <!-- ScrollMonitor (manages events for elements scrolling in and out of view) -->
-    <script type="text/javascript" src="assets/js/scrollMonitor.js"></script>
-    <!-- Smooth scroll (animation to links in-page)-->
-    <script type="text/javascript" src="assets/js/smooth-scroll.polyfills.min.js"></script>
-    <!-- SVGInjector (replaces img tags with SVG code to allow easy inclusion of SVGs with the benefit of inheriting colors and styles)-->
-    <script type="text/javascript" src="assets/js/svg-injector.umd.production.js"></script>
-    <!-- TwitterFetcher (displays a feed of tweets from a specified account)-->
-    <script type="text/javascript" src="assets/js/twitterFetcher_min.js"></script>
-    <!-- Typed text (animated typing effect)-->
-    <script type="text/javascript" src="assets/js/typed.min.js"></script>
-    <!-- Required theme scripts (Do not remove) -->
-    <script type="text/javascript" src="assets/js/theme.js"></script>
-    <!-- This script appears only on the demo.  It is used to delay unnecessary image loading until after the main page content is loaded. -->
-    <script type="text/javascript">
-      window.addEventListener("load",function(){
-            setTimeout(function() {
-              const delayedImages = document.querySelectorAll('[data-delay-src]');
-              theme.mrUtil.forEach(delayedImages, (index, elem) => {
-                const source = elem.getAttribute('data-delay-src');
-                elem.removeAttribute('data-delay-src');
-                elem.setAttribute('src', source);
-              });
-            }, 500);
-          });
-    </script>
-
-    <script type="text/javascript">
-      // This script appears only in the demo - it disables forms with no action attribute to prevent 
-      // navigating away from the page.
-      jQuery("form:not([action])").on('submit', function(){return false;});
-    </script>
-
-  </body>
-
-
-<!-- Mirrored from jumpstart.mediumra.re/landing-6.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Jan 2020 23:54:56 GMT -->
-</html>
+  <?php include 'inc/footer.php';?>
+   

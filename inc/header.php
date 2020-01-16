@@ -18,6 +18,7 @@
     </script>
     <!-- End loading animation -->
     <link href="assets/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="assets/fontawesome/css/all.css" rel="stylesheet" type="text/css" media="all" />
     <link href="https://fonts.googleapis.com/css?family=Nunito:400,400i,600,700&amp;display=swap" rel="stylesheet">
   </head>
 
@@ -30,7 +31,7 @@
                 <div class="mb-3 mb-md-0"><strong>Intro Sale</strong> $10 per license for Jumpstart's launch. Act fast, ends soon.</div>
                 <a class="btn btn-sm btn-success ml-md-3" target="_blank" href=https://themeforest.net/item/jumpstart-app-and-software-template/24207799>Redeem Offer</a>
             </div>
-            <div class="col-auto position-absolute right">
+            <div class="col-auto position-absolute left">
                 <button type="button" class="close p-0 position-relative" data-dismiss="alert" aria-label="Close">
                     <span aria-hidden="true">
                         <img src="assets/img/icons/interface/icon-x.svg" alt="Close" class="icon icon-sm bg-white" data-inject-svg>
